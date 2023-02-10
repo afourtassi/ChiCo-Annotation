@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences version="1.1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/Prefs_v1.1.xsd">
+    <pref key="FrameSize">
+        <Object class="java.awt.Dimension">1550,838</Object>
+    </pref>
+    <pref key="TimeLineViewer.ActiveAnnotationBold">
+        <Boolean>true</Boolean>
+    </pref>
+    <pref key="LayoutManager.SelectedTabIndex">
+        <Int>7</Int>
+    </pref>
+    <pref key="LayoutManager.VisibleMultiTierViewer">
+        <String>mpi.eudico.client.annotator.viewer.TimeLineViewer</String>
+    </pref>
+    <pref key="LayoutManager.ControlPanelWidth">
+        <Int>120</Int>
+    </pref>
+    <pref key="MultiTierViewer.ActiveTierName">
+        <String>P-Turn</String>
+    </pref>
+    <pref key="TimeLineViewer.TickerMode">
+        <Boolean>true</Boolean>
+    </pref>
+    <pref key="SelectionEndTime">
+        <Long>1122765</Long>
+    </pref>
+    <pref key="LayoutManager.MediaAreaHeight">
+        <Int>305</Int>
+    </pref>
+    <pref key="ExportTabDialog.SelectTiersMode">
+        <String>Tier</String>
+    </pref>
+    <prefList key="ExportTabDialog.TierOrder">
+        <String>P-Turn</String>
+        <String>C-Turn</String>
+        <String>P-Gaze</String>
+        <String>P-Head</String>
+        <String>P-Eyebrow</String>
+        <String>P-Mouth</String>
+        <String>P-Posture</String>
+        <String>C-Gaze</String>
+        <String>C-Head</String>
+        <String>C-Eyebrow</String>
+        <String>C-Mouth</String>
+        <String>C-Posture</String>
+        <String>P-FuncH</String>
+        <String>C-FuncH</String>
+        <String>SpeechFunction</String>
+        <String>P-FeedbackType</String>
+        <String>C-FeedbackType</String>
+        <String>Head-FeedbackType</String>
+        <String>C-MouthFeedbackType</String>
+        <String>P-MouthFeedbackType</String>
+    </prefList>
+    <pref key="LayoutManager.CurrentMode">
+        <Int>1</Int>
+    </pref>
+    <prefGroup key="CommentViewer.Columns">
+        <pref key="Sender">
+            <Int>0</Int>
+        </pref>
+        <pref key="Comment">
+            <Int>75</Int>
+        </pref>
+        <pref key="Creation Date">
+            <Int>75</Int>
+        </pref>
+        <pref key="Tier">
+            <Int>75</Int>
+        </pref>
+        <pref key="Modification Date">
+            <Int>75</Int>
+        </pref>
+        <pref key="Recipient">
+            <Int>0</Int>
+        </pref>
+        <pref key="Start Time">
+            <Int>75</Int>
+        </pref>
+        <pref key="Initials">
+            <Int>75</Int>
+        </pref>
+        <pref key="End Time">
+            <Int>75</Int>
+        </pref>
+        <pref key="Thread">
+            <Int>75</Int>
+        </pref>
+    </prefGroup>
+    <prefList key="ExportTabDialog.selectedTiers">
+        <String>P-Turn</String>
+        <String>C-Turn</String>
+        <String>P-Gaze</String>
+        <String>P-Head</String>
+        <String>P-Eyebrow</String>
+        <String>P-Mouth</String>
+        <String>P-Posture</String>
+        <String>C-Gaze</String>
+        <String>C-Head</String>
+        <String>C-Eyebrow</String>
+        <String>C-Mouth</String>
+        <String>C-Posture</String>
+        <String>P-FuncH</String>
+        <String>C-FuncH</String>
+        <String>SpeechFunction</String>
+        <String>P-FeedbackType</String>
+        <String>C-FeedbackType</String>
+        <String>Head-FeedbackType</String>
+        <String>C-MouthFeedbackType</String>
+        <String>P-MouthFeedbackType</String>
+    </prefList>
+    <prefList key="CommentViewer.Columns.Order">
+        <String>Start Time</String>
+        <String>End Time</String>
+        <String>Tier</String>
+        <String>Initials</String>
+        <String>Comment</String>
+        <String>Thread</String>
+        <String>Sender</String>
+        <String>Recipient</String>
+        <String>Creation Date</String>
+        <String>Modification Date</String>
+    </prefList>
+    <pref key="ActiveRecognizerName">
+        <String>AAM-LR Phone level audio segmentation</String>
+    </pref>
+    <pref key="FrameLocation">
+        <Object class="java.awt.Point">-7,-7</Object>
+    </pref>
+    <prefGroup key="IndividualPlayerMuteSoloSettings">
+        <pref key="audio_only_GL_Guilhem_Deulofeu.m4a">
+            <String>mute</String>
+        </pref>
+        <pref key="audio_only_GL_Lukas.m4a">
+            <String>mute</String>
+        </pref>
+        <pref key="zoom_GL.mp4">
+            <String>solo</String>
+        </pref>
+    </prefGroup>
+    <pref key="TimeLineViewer.ZoomLevel">
+        <Float>98.0</Float>
+    </pref>
+    <pref key="TimeLineViewer.ReducedTierHeight">
+        <Boolean>true</Boolean>
+    </pref>
+    <pref key="SelectionBeginTime">
+        <Long>1120225</Long>
+    </pref>
+    <prefGroup key="AAM-LR Phone level audio segmentation">
+        <pref key="base_url">
+            <String>http://lux17.mpi.nl/aamlr/</String>
+        </pref>
+    </prefGroup>
+    <pref key="TimeLineViewer.TimeScaleConnected">
+        <Boolean>true</Boolean>
+    </pref>
+    <pref key="MediaControlRate">
+        <Float>1.5</Float>
+    </pref>
+    <pref key="TimeScaleBeginTime">
+        <Long>1430908</Long>
+    </pref>
+    <pref key="MediaTime">
+        <Long>1120225</Long>
+    </pref>
+    <prefGroup key="TierColors">
+        <pref key="P-MouthFeedbackType">
+            <Object class="java.awt.Color">160,160,90</Object>
+        </pref>
+        <pref key="C-Mouth">
+            <Object class="java.awt.Color">0,90,0</Object>
+        </pref>
+        <pref key="Head-FeedbackType">
+            <Object class="java.awt.Color">0,90,90</Object>
+        </pref>
+        <pref key="C-FuncH">
+            <Object class="java.awt.Color">160,90,160</Object>
+        </pref>
+        <pref key="P-Mouth">
+            <Object class="java.awt.Color">90,90,0</Object>
+        </pref>
+        <pref key="C-FeedbackType">
+            <Object class="java.awt.Color">90,0,0</Object>
+        </pref>
+        <pref key="P-FuncH">
+            <Object class="java.awt.Color">0,0,90</Object>
+        </pref>
+        <pref key="P-Eyebrow">
+            <Object class="java.awt.Color">0,160,0</Object>
+        </pref>
+        <pref key="C-Turn">
+            <Object class="java.awt.Color">90,160,160</Object>
+        </pref>
+        <pref key="SpeechFunction">
+            <Object class="java.awt.Color">160,0,0</Object>
+        </pref>
+        <pref key="P-Posture">
+            <Object class="java.awt.Color">0,90,160</Object>
+        </pref>
+        <pref key="P-FeedbackType">
+            <Object class="java.awt.Color">90,90,160</Object>
+        </pref>
+        <pref key="C-Head">
+            <Object class="java.awt.Color">0,0,160</Object>
+        </pref>
+        <pref key="C-Posture">
+            <Object class="java.awt.Color">160,0,160</Object>
+        </pref>
+        <pref key="C-Eyebrow">
+            <Object class="java.awt.Color">160,90,0</Object>
+        </pref>
+        <pref key="P-Head">
+            <Object class="java.awt.Color">90,160,0</Object>
+        </pref>
+        <pref key="P-Gaze">
+            <Object class="java.awt.Color">160,0,90</Object>
+        </pref>
+        <pref key="C-MouthFeedbackType">
+            <Object class="java.awt.Color">0,160,160</Object>
+        </pref>
+        <pref key="P-Turn">
+            <Object class="java.awt.Color">160,90,90</Object>
+        </pref>
+        <pref key="C-Gaze">
+            <Object class="java.awt.Color">0,160,90</Object>
+        </pref>
+    </prefGroup>
+    <prefList key="MultiTierViewer.TierOrder">
+        <String>P-Turn</String>
+        <String>P-FeedbackType</String>
+        <String>SpeechFunction</String>
+        <String>C-FeedbackType</String>
+        <String>C-Turn</String>
+        <String>P-Gaze</String>
+        <String>P-Head</String>
+        <String>P-FuncH</String>
+        <String>P-Eyebrow</String>
+        <String>P-Mouth</String>
+        <String>P-MouthFeedbackType</String>
+        <String>P-Posture</String>
+        <String>Head-FeedbackType</String>
+        <String>C-Gaze</String>
+        <String>C-Head</String>
+        <String>C-FuncH</String>
+        <String>C-Eyebrow</String>
+        <String>C-Mouth</String>
+        <String>C-MouthFeedbackType</String>
+        <String>C-Posture</String>
+    </prefList>
+    <prefGroup key="IndividualPlayerVolumes">
+        <pref key="audio_only_GL_Guilhem_Deulofeu.m4a">
+            <Float>0.92</Float>
+        </pref>
+        <pref key="audio_only_16779266_Guilhem_Deulofeu.m4a">
+            <Float>0.0</Float>
+        </pref>
+        <pref key="audio_only_GL_Lukas.m4a">
+            <Float>1.0</Float>
+        </pref>
+        <pref key="zoom_0.mp4">
+            <Float>0.94</Float>
+        </pref>
+        <pref key="audio_only_16780290_Guilhem_Deulofeu.m4a">
+            <Float>0.0</Float>
+        </pref>
+        <pref key="zoom_GL.mp4">
+            <Float>1.0</Float>
+        </pref>
+    </prefGroup>
+    <pref key="LayoutManager.SplitPaneDividerLocation">
+        <Int>1</Int>
+    </pref>
+    <prefList key="CommentViewer.Columns.Hidden">
+        <String>Sender</String>
+        <String>Recipient</String>
+    </prefList>
+    <prefList key="ExportTabDialog.HiddenTiers"/>
+</preferences>
